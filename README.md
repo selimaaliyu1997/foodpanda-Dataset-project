@@ -1,4 +1,3 @@
-# foodpan
 ## 🍔 Foodpanda Data Analysis Project
 
 ## 📊 Project Title
@@ -119,6 +118,7 @@ Foodpanda-Data-Analysis/
 │── images/
 │── README.md
 ```
+<img width="691" height="422" alt="Capture" src="https://github.com/user-attachments/assets/87d67b33-f4c2-4301-a993-6b06053fdb1d" />
 
 ---
 
@@ -135,9 +135,9 @@ Foodpanda-Data-Analysis/
 ## 📬 Contact
 
 For questions or collaboration:
-**Name:** [Your Name]
-**Email:** [Your Email]
-**GitHub:** [Your GitHub Profile]
+**Name:** [aliyu salamatu ibrahim]
+**Email:** [selimaaliyu1997@gmail.com]
+**GitHub:** [selimaaliyu1997]
 
 ---
 
